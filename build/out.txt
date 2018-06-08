@@ -1,0 +1,7 @@
+Process 0's result part(4):34 56 98 129 
+Process 1's result part(4):28 42 48 83 
+Process 2's result part(4):11 73 94 243 
+Process 3's result part(4):12 36 38 45 
+
+Overall sorting result(16):
+11    12    28    34    36    38    42    45    48    56    73    83    94    98    129    243    

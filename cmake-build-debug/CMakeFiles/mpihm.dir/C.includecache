@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Study/C/MPI/hm/compute.h
+
+/cygdrive/d/Study/C/MPI/hm/global.h
+stdlib.h
+-
+mpi.h
+-
+
+/cygdrive/d/Study/C/MPI/hm/input.h
+
+/cygdrive/d/Study/C/MPI/hm/main.c
+stdlib.h
+-
+stdio.h
+-
+global.h
+/cygdrive/d/Study/C/MPI/hm/global.h
+input.h
+/cygdrive/d/Study/C/MPI/hm/input.h
+mpi_helper.h
+/cygdrive/d/Study/C/MPI/hm/mpi_helper.h
+compute.h
+/cygdrive/d/Study/C/MPI/hm/compute.h
+output.h
+/cygdrive/d/Study/C/MPI/hm/output.h
+
+/cygdrive/d/Study/C/MPI/hm/mpi_helper.h
+
+/cygdrive/d/Study/C/MPI/hm/output.h
+
+C:/Program Files (x86)/Microsoft SDKs/MPI/Include/mpi.h
+sal.h
+-
+
